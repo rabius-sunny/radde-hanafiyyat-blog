@@ -1,5 +1,5 @@
 ---
-title: New Conference
+title: 'Our '
 date: '2019-03-10'
 thumb_image: images/2.jpg
 image: images/2.jpg
