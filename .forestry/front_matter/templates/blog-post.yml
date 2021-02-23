@@ -1,0 +1,10 @@
+---
+label: Blog Post
+hide_body: true
+fields:
+- type: text
+  name: root_docs_path
+  label: root_docs_path
+- type: list
+  name: sections
+  label: sections
