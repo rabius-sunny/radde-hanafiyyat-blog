@@ -1,8 +1,6 @@
 ---
 title: Jarah of Imam
-excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+excerpt: 'In this '
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
