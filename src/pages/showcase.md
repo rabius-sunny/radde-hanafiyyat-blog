@@ -33,7 +33,7 @@ sections:
         template: grid_item
         title: Book Name -3
         title_url: 'https://themes.stackbit.com/demos/fjord/'
-        image: images/8.jpg
+        image: /images/pink-hedgehog.jpg
         content: >
           This is the Book Name. Download directly from our server. This book
           contians............
