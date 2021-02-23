@@ -1,7 +1,7 @@
 ---
 title: Our Post-3
 date: '2019-03-10'
-thumb_image: images/2.jpg
+thumb_image: /images/nervous-hedgehog.jpg
 image: images/2.jpg
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
