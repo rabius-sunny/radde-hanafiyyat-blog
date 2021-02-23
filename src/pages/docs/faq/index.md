@@ -2,7 +2,7 @@
 title: Question & Answer
 excerpt: >-
   In this section you'll find commonly asked questions regarding our Project and
-  . If you have questions, don’t hesitate to ask us directly.
+  Activity. If you have questions, don’t hesitate to ask us directly.
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
