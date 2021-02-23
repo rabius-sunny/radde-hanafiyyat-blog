@@ -4,7 +4,7 @@
     "header": {
         "type": "header",
         "template": "header",
-        "title": "Radde Hanafiyyat",
+        "title": "radde-hanafiyyat",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "radde-hanafiyyat",
         "has_nav": true,
