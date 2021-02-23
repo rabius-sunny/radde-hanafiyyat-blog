@@ -10,7 +10,7 @@ excerpt: >-
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: The function of design is letting design function
+  title: Our Post -4
   description: Vestibulum sed arcu non odio euismod lacinia at quis risus
   extra:
     - name: 'og:type'
