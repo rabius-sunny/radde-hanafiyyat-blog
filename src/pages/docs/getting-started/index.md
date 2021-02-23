@@ -1,6 +1,6 @@
 ---
 title: Ta'dil of Imam
-excerpt: In this section you'll find basic information about Libris and how to use it.
+excerpt: 'In this Section, You will find some '
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
