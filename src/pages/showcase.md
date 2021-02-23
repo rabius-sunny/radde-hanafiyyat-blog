@@ -18,7 +18,9 @@ sections:
         title: Book Name -1
         title_url: '#'
         image: /images/book.jpg
-        content: A portfolio theme for Unibit
+        content: >
+          This is the Book Name. Download directly from our server. This book
+          contians............
       - type: grid_item
         template: grid_item
         title: Fresh
