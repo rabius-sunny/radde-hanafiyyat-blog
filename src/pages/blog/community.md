@@ -1,5 +1,5 @@
 ---
-title: Community Round-up
+title: Our Post
 date: '2019-05-27'
 image: images/2.jpg
 excerpt: >-
