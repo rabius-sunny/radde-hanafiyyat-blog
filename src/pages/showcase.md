@@ -1,5 +1,5 @@
 ---
-title: Showcase
+title: Downloads
 sections:
   - type: section_hero
     template: section_hero
