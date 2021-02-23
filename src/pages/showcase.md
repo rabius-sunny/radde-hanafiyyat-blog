@@ -5,7 +5,7 @@ sections:
     template: section_hero
     title: Downloads
     section_id: hero
-    image: images/5.jpg
+    image: /images/terrific-coriander.jpg
     content: |
       Media center of Radde Hanafiyyah
   - type: section_grid
