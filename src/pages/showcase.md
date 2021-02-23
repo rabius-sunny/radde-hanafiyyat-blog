@@ -40,7 +40,7 @@ sections:
     title: Download Books
     subtitle: >-
       Download all the important books refered by Radde Hanafiyyat to explore
-      more
+      more and keep updated.
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
