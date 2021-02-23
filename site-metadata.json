@@ -96,7 +96,7 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "content": "All Rights Reserved @ Radde Hanafiyyat, 2021",
+        "content": "All Rights Reserved @ Radde Hanafiyyat, 2021 | ",
         "has_social": true,
         "social_links": [
             {
