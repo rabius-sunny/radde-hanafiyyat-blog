@@ -96,7 +96,7 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "content": "All Rights Reserved @ Radde Hanafiyyat, 2021",
+        "content": "All Rights Reserved @ Radde Hanafiyyat, 2021 | made by",
         "has_social": true,
         "social_links": [
             {
@@ -130,7 +130,17 @@
                 "no_follow": false
             }
         ],
-        "links": []
+        "links": [
+            {
+                "label": "Rabee",
+                "url": "https://facebook.com/rabibinsalam",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://radde-hanafiyyat.netlify.app",
     "favicon": ""

@@ -1,6 +1,8 @@
 ---
 title: Ta'dil of Imam
-excerpt: In this section you'll find basic information about Libris and how to use it.
+excerpt: >-
+  In this Section, You will find some riwayah about ta'dil of Imam with their
+  proper tahqeeq. Enter to learn more.
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
