@@ -7,7 +7,7 @@ sections:
     col_number: three
   - type: section_cta
     template: section_cta
-    title: The Title of The Call to Action Block
+    title: What are you waiting for?
     section_id: cta
     subtitle: This is an optional description for the call to action block.
     actions:
