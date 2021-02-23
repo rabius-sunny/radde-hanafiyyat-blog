@@ -13,7 +13,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Get Started
+        label: Join Us
         url: /docs/getting-started
         style: primary
 seo:
