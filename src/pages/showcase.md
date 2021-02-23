@@ -42,7 +42,9 @@ sections:
         title: Book Name -4
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+        content: >
+          This is the Book Name. Download directly from our server. This book
+          contians............
     title: Download Books
     subtitle: >-
       Download all the important books refered by Radde Hanafiyyat to explore
