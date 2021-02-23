@@ -25,7 +25,7 @@ sections:
         template: grid_item
         title: Book Name -2
         title_url: 'https://themes.stackbit.com/demos/fresh/'
-        image: images/7.jpg
+        image: /images/royal-sage.jpg
         content: >
           This is the Book Name. Download directly from our server. This book
           contians............
