@@ -159,7 +159,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Libris Theme
+      value: Radde Hanafiyyat
     - name: 'twitter:description'
       value: The preview of the Libris theme
     - name: 'twitter:image'
