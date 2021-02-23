@@ -141,7 +141,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Radde Hanafiyyat
-  description: The preview of the Libris theme
+  description: Blog about radd of Imam Abu Hanifa
   extra:
     - name: 'og:type'
       value: website
