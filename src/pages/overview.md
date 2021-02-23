@@ -1,12 +1,6 @@
 ---
 title: Overview
 sections:
-  - type: section_hero
-    template: section_hero
-    title: Overview
-    section_id: hero
-    image: images/5.jpg
-    content: An optional subtitle
   - type: section_docs
     template: section_docs
     section_id: docs-overview
