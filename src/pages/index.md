@@ -140,17 +140,17 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  title: Radde Hanafiyyat
+  description: Blog about radd of Imam Abu Hanifa
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Libris Theme
+      value: Radde Hanafiyyat
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: Blog About radd of Imam Abu Hanifa
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
@@ -159,9 +159,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Libris Theme
+      value: Radde Hanafiyyat
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: Blog About radd of Imam Abu Hanifa
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true

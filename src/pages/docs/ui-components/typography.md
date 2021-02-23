@@ -1,5 +1,5 @@
 ---
-title: Typography
+title: Other Discussion
 weight: 1
 seo:
   type: stackbit_page_meta

@@ -1,5 +1,7 @@
 ---
 title: Welcome to Radde Hanafiyyat
+weight: 0
+excerpt: lorem-ipsum
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta

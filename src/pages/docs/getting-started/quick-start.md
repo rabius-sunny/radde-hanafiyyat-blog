@@ -1,5 +1,5 @@
 ---
-title: Quick Start
+title: Imam 2
 weight: 2
 seo:
   type: stackbit_page_meta
