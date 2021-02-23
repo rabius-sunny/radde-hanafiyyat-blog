@@ -1,5 +1,5 @@
 ---
-title: Our Post =4
+title: Our Post - 4
 subtitle: Vestibulum sed arcu non odio euismod lacinia at quis risus
 date: '2018-01-15'
 image: images/1.jpg
