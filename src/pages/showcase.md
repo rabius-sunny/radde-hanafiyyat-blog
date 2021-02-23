@@ -34,7 +34,9 @@ sections:
         title: Book Name -3
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
-        content: A minimal blogging theme for Unibit
+        content: >
+          This is the Book Name. Download directly from our server. This book
+          contians............
       - type: grid_item
         template: grid_item
         title: Ampersand
