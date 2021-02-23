@@ -45,6 +45,5 @@ pages:
   - src/pages/docs/getting-started/installation.md
   - src/pages/docs/getting-started/quick-start.md
   - src/pages/docs/index.md
-  - src/pages/docs/tools/starter-theme.md
   - src/pages/docs/ui-components/index.md
   - src/pages/docs/ui-components/typography.md
