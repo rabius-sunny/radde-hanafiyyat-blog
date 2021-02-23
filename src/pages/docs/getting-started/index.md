@@ -1,6 +1,8 @@
 ---
 title: Ta'dil of Imam
-excerpt: 'In this Section, You will find some '
+excerpt: >-
+  In this Section, You will find some riwayah about ta'dil of Imam with their
+  proper 
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
