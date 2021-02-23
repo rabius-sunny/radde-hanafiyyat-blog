@@ -38,6 +38,9 @@ sections:
         image: images/9.jpg
         content: Medium inspired blogging theme for Unibit
     title: Download Books
+    subtitle: >-
+      Download all the important books refered by Radde Hanafiyyat to explore
+      more
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
