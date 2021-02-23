@@ -161,7 +161,7 @@ seo:
     - name: 'twitter:title'
       value: Radde Hanafiyyat
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: Blog About radd of Imam Abu Hanifa
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
