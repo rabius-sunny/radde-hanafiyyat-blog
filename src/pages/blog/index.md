@@ -7,8 +7,8 @@ more_link_text: Read more
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Blog
-  description: This is the blog page
+  title: Blog of Radde Hanafiyyat
+  description: This is the blog page of Radde Hanafiyyat
   extra:
     - name: 'og:type'
       value: website
