@@ -9,7 +9,7 @@ sections:
     template: section_cta
     title: What are you waiting for?
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Join our exclusive social groups and keep updated with us.
     actions:
       - type: action
         template: action
