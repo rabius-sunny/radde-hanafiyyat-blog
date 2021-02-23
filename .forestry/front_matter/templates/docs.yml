@@ -47,3 +47,4 @@ pages:
   - src/pages/docs/index.md
   - src/pages/docs/ui-components/index.md
   - src/pages/docs/ui-components/typography.md
+  - src/pages/docs//docs/bio.md
