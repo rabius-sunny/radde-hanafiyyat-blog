@@ -1,6 +1,6 @@
 ---
 title: Jarah of Imam
-excerpt: 'In this '
+excerpt: 'In this Section, you will find all the Jarah'
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
