@@ -16,7 +16,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Book Name -1
-        title_url: 'https://themes.stackbit.com/demos/exto/'
+        title_url: '#'
         image: images/6.jpg
         content: A portfolio theme for Unibit
       - type: grid_item
