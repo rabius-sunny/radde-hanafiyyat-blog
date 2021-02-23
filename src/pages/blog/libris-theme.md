@@ -1,7 +1,7 @@
 ---
 title: Our Post -2
 date: '2019-04-24'
-thumb_image: images/4.jpg
+thumb_image: /images/post3.jpg
 image: images/3.jpg
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
