@@ -41,7 +41,7 @@ sections:
         template: grid_item
         title: Book Name -4
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
+        image: /images/cool-celery.jpg
         content: >
           This is the Book Name. Download directly from our server. This book
           contians............
