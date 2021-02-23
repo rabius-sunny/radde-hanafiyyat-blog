@@ -14,7 +14,7 @@
                 "template": "action_menu",
                 "label": "Home",
                 "url": "/",
-                "style": "icon",
+                "style": "link",
                 "has_subnav": false,
                 "icon_class": "",
                 "new_window": false,
