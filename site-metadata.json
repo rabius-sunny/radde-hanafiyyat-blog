@@ -1,10 +1,10 @@
 {
-    "title": "Radde Hanafiyyat",
+    "title": "Downloads",
     "palette": "navy",
     "header": {
         "type": "header",
         "template": "header",
-        "title": "Radde Hanafiyyat",
+        "title": "Radee Hanafiyyat",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "radde-hanafiyyat",
         "has_nav": true,
@@ -82,7 +82,7 @@
                 "type": "action_menu",
                 "template": "action_menu",
                 "label": "About",
-                "url": "/about",
+                "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false,
                 "icon_class": "",
