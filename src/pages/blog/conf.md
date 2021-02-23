@@ -10,7 +10,7 @@ excerpt: >-
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: New Conference
+  title: Our Post -3
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'

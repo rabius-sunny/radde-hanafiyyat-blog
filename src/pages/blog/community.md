@@ -9,7 +9,7 @@ excerpt: >-
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Community Round-up
+  title: Our Post -1
   description: Commodo ante vis placerat interdum massa massa primis
   extra:
     - name: 'og:type'

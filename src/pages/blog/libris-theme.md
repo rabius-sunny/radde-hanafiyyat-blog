@@ -10,7 +10,7 @@ excerpt: >-
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Introducing The Libris Theme
+  title: Our Post -2
   description: >-
     Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
     accumsan
