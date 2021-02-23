@@ -17,7 +17,7 @@ sections:
         template: grid_item
         title: Book Name -1
         title_url: '#'
-        image: images/6.jpg
+        image: /images/book.jpg
         content: A portfolio theme for Unibit
       - type: grid_item
         template: grid_item
