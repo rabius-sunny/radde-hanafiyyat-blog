@@ -23,7 +23,7 @@ sections:
           contians............
       - type: grid_item
         template: grid_item
-        title: Fresh
+        title: Book Name -2
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
         content: A personal theme for Unibit
