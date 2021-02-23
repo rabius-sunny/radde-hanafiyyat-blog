@@ -6,7 +6,8 @@ sections:
     title: Downloads
     section_id: hero
     image: images/5.jpg
-    content: This is an optional page subtitle
+    content: |
+      Media center of Radde Hanafiyyah
   - type: section_grid
     template: section_grid
     section_id: showcase
