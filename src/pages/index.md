@@ -150,7 +150,7 @@ seo:
       value: Radde Hanafiyyat
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: Blog About radd of Imam Abu Hanifa
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
