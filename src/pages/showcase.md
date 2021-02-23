@@ -53,7 +53,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Downloads
-  description: This is the showcase page
+  description: Media Center of Radde Hanafiyyat
   extra:
     - name: 'og:type'
       value: website
